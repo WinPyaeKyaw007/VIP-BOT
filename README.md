@@ -1,2 +1,2 @@
-# VIP-BOT
-VIP BOT
+# VIP.py
+VIP.py
